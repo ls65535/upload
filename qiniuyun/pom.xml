@@ -1,0 +1,5 @@
+              <dependency>
+				<groupId>com.qiniu</groupId>
+				<artifactId>qiniu-java-sdk</artifactId>
+				<version>7.2.10</version>
+			  </dependency>
